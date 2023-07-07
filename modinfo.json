@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "ks_mod_expanded_food",
+    "name": "<color_green>Expanded food</color>",
+    "authors": [ "Kenshut" ],
+    "description": "<color_green>Expanded food</color> - you need more food's?",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]

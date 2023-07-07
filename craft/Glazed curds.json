@@ -1,0 +1,41 @@
+[{
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "result": "сырок",
+    "category": "CC_FOOD",
+    "subcategory": "CSC_FOOD_OTHER",
+    "skill_used": "cooking",
+    "difficulty": 1,
+    "time": "10 m",
+    "result_mult": 6,
+    "book_learn": [ [ "dairy_book", 1 ] ],
+    "qualities": [ { "id": "COOK", "level": 2 } ],
+    "proficiencies": [
+      { "proficiency": "prof_food_prep" }
+    ],
+    "tools": [
+      [ [ "water_boiling_heat", 2, "LIST" ] ]
+    ],
+    "components": [ [ [ "cottage_cheese", 6 ] ], [ [ "chocolate", 1 ] ], [ [ "sugar", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "result": "Фруктовый_сырок",
+    "category": "CC_FOOD",
+    "subcategory": "CSC_FOOD_OTHER",
+    "skill_used": "cooking",
+    "difficulty": 1,
+    "time": "10 m",
+    "result_mult": 6,
+    "book_learn": [ [ "dairy_book", 1 ] ],
+    "qualities": [ { "id": "COOK", "level": 2 } ],
+    "proficiencies": [
+      { "proficiency": "prof_food_prep" }
+    ],
+    "tools": [
+      [ [ "water_boiling_heat", 2, "LIST" ] ]
+    ],
+    "components": [ [ [ "cottage_cheese_with_fruit", 6 ] ], [ [ "chocolate", 1 ] ], [ [ "sugar", 1 ] ] ]
+  }
+]
