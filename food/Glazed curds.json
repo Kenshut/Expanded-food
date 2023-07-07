@@ -60,20 +60,6 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "11",
-    "name": { "str_sp": "дешевый сырок" },
-    "copy-from": "сырок",
-	"container": "box_small",
-	"volume": "100 ml",
-    "description": "Дешевый сырок  - твороженный десерт, покрытый шоколадом",
-    "price": 421,
-    "price_postapoc": 120,
-	"weight": "40 g",
-    "vitamins": [ [ "calcium", 33 ], [ "iron", 3 ] ],
-    "fun": 5
-  },
-  {
-    "type": "COMESTIBLE",
     "id": "магазинный_сырок_фрукты",
     "name": { "str_sp": "дешевый фруктовый сырок" },
     "copy-from": "сырок",
