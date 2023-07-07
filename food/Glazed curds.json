@@ -60,7 +60,7 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "1",
+    "id": "11",
     "name": { "str_sp": "дешевый сырок" },
     "copy-from": "сырок",
 	"container": "box_small",
