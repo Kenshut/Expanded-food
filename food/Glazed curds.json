@@ -60,7 +60,7 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "ntcn",
+    "id": "1",
     "name": { "str_sp": "дешевый сырок" },
     "copy-from": "сырок",
 	"container": "box_small",
